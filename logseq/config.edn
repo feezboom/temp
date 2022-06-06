@@ -172,7 +172,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :preferred-format :markdown
+ :preferred-format :org
  :graph/settings {:journal? false, :builtin-pages? false}
  :favorites []
 
